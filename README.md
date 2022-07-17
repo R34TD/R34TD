@@ -21,21 +21,21 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" style="padding-right:20px;" />
+<img align="left" alt="Java" width="56px" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" style="padding-right:40px;" />
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:40px;" />
 
-<img align="left" alt="Spring" width="36px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:20px;" />
+<img align="left" alt="Spring" width="56px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:40px;" />
 
-<img align="left" alt="MySQL" width="36px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:20px;" />
+<img align="left" alt="MySQL" width="56px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:40px;" />
 
-<img align="left" alt="intellij" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:20px;" />
+<img align="left" alt="intellij" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:40px;" />
 
-<img align="left" alt="Apache" width="36px" src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" style="padding-right:20px;" />
+<img align="left" alt="Apache" width="56px" src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" style="padding-right:40px;" />
 
-<img align="left" alt="Postman" width="36px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:20px;" />
+<img align="left" alt="Postman" width="56px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:40px;" />
 
-<img align="left" alt="Hibernate" width="36px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" style="padding-right:20px;" />
+<img align="left" alt="Hibernate" width="56px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" style="padding-right:40px;" />
 
 <br />
 <br />
