@@ -31,7 +31,7 @@
 
 <img align="left" alt="intellij" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:40px;" />
 
-<img align="left" alt="Apache" width="56px" src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" style="padding-right:40px;" />
+<img align="left" alt="Apache" width="56px" src="https://seeklogo.com/images/A/apache-logo-D5F56E0594-seeklogo.com.png" style="padding-right:40px;" />
 
 <img align="left" alt="Postman" width="56px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:40px;" />
 
