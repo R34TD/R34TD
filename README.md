@@ -1,4 +1,4 @@
-# Hi there, I'm Uruha Nagamiya 👋 
+# Hi there, I'm Uruha Nagamiya 👋😆
 
 [![Website](https://img.shields.io/website?label=ulhaq.web.id&style=for-the-badge&url=https%3A%2F%2Fulhaq.web.id)](https://ulhaq.web.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UNagamiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/UNagamiya)
