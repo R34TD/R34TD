@@ -21,17 +21,21 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:20px;" />
+<img align="left" alt="Java" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" style="padding-right:20px;" />
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
 
-<img align="left" alt="Spring" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" style="padding-right:20px;" />
+<img align="left" alt="Spring" width="36px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:20px;" />
 
-<img align="left" alt="MySQL" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" style="padding-right:20px;" />
+<img align="left" alt="MySQL" width="36px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:20px;" />
 
-<img align="left" alt="intellij" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original-wordmark.svg" style="padding-right:20px;" />
+<img align="left" alt="intellij" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:20px;" />
 
-<img align="left" alt="intellij" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original-wordmark.svg" style="padding-right:20px;" />
+<img align="left" alt="Apache" width="36px" src="https://img2.pngdownload.id/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg" style="padding-right:20px;" />
+
+<img align="left" alt="Postman" width="36px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:20px;" />
+
+<img align="left" alt="Hibernate" width="36px" src="https://toppng.com/uploads/preview/hibernate-logo-11609364227r2rk6gphuk.png" style="padding-right:20px;" />
 
 <br />
 <br />
