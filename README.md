@@ -31,11 +31,11 @@
 
 <img align="left" alt="intellij" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:20px;" />
 
-<img align="left" alt="Apache" width="36px" src="https://img2.pngdownload.id/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg" style="padding-right:20px;" />
+<img align="left" alt="Apache" width="36px" src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" style="padding-right:20px;" />
 
 <img align="left" alt="Postman" width="36px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:20px;" />
 
-<img align="left" alt="Hibernate" width="36px" src="https://toppng.com/uploads/preview/hibernate-logo-11609364227r2rk6gphuk.png" style="padding-right:20px;" />
+<img align="left" alt="Hibernate" width="36px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" style="padding-right:20px;" />
 
 <br />
 <br />
