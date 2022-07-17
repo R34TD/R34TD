@@ -23,8 +23,6 @@
 
 <img align="left" alt="Java" width="56px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="padding-right:40px;" />
 
-<img align="left" alt="Kotlin" width="56px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XMw9Io8X--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2485/80d41bc3-7f05-444c-a32e-ceb190e486b1.png" style="padding-right:40px;" />
-
 <img align="left" alt="Visual Studio Code" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:40px;" />
 
 <img align="left" alt="Spring" width="56px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:40px;" />
@@ -37,7 +35,9 @@
 
 <img align="left" alt="Postman" width="56px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:40px;" />
 
-<img align="left" alt="Hibernate" width="56px" src="https://banner2.cleanpng.com/20180920/ztj/kisspng-hibernate-object-relational-mapping-java-spring-fr-hibernate-logo-svg-vector-amp-png-transparent-5ba41dd3b8a7a2.2688692915374821957564.jpg" style="padding-right:40px;" />
+<img align="left" alt="Hibernate" width="56px" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_darkbkg_stacked_256px.gif" style="padding-right:40px;" />
+
+
 
 <br />
 <br />
