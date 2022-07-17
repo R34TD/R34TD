@@ -37,7 +37,7 @@
 
 <img align="left" alt="Postman" width="56px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:40px;" />
 
-<img align="left" alt="Hibernate" width="56px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" style="padding-right:40px;" />
+<img align="left" alt="Hibernate" width="56px" src="https://banner2.cleanpng.com/20180920/ztj/kisspng-hibernate-object-relational-mapping-java-spring-fr-hibernate-logo-svg-vector-amp-png-transparent-5ba41dd3b8a7a2.2688692915374821957564.jpg" style="padding-right:40px;" />
 
 <br />
 <br />
