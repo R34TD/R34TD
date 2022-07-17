@@ -6,7 +6,7 @@
 ## I'm a BackEnd Developer
 
 - 🌱 I’m currently learning Spring Framework
-- ⚡ Fun fact: My Real Name Is Mahbub Ulhaq
+- ⚡ My Real Name Is Mahbub Ulhaq
 
 ### Connect with me:
 
