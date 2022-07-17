@@ -48,7 +48,7 @@
 
   <img align="left" alt="R34TD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R34TD&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
 </details>
 
