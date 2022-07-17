@@ -21,17 +21,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:20px;" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" style="padding-right:20px;" />
 
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" style="padding-right:20px;" />
 
-<img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="intellij" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original-wordmark.svg" style="padding-right:20px;" />
 
-<img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="intellij" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original-wordmark.svg" style="padding-right:20px;" />
 
 <br />
 <br />
