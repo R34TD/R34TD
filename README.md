@@ -31,7 +31,7 @@
 
 <img align="left" alt="intellij" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:40px;" />
 
-<img align="left" alt="Maven" width="56px" src="https://maven.apache.org/images/maven-logo-white-on-black.png" style="padding-right:40px;" />
+<img align="left" alt="Maven" width="56px" src="https://banner2.cleanpng.com/20180607/esv/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e571b97f1.295739891528385111113.jpg" style="padding-right:40px;" />
 
 <img align="left" alt="Postman" width="56px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" style="padding-right:40px;" />
 
