@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ulhaq.web.id&style=for-the-badge&url=https%3A%2F%2Fulhaq.web.id)](https://ulhaq.web.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UNagamiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/UNagamiya)
 
-## I'm a Java Developer
+## I'm a BackEnd Developer
 
 - 🌱 I’m currently learning Spring Framework
 - ⚡ Fun fact: My Real Name Is Mahbub Ulhaq
@@ -43,11 +43,10 @@
 <br />
 
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Uruha Nagamiya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R34TD&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="R34TD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R34TD&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
