@@ -43,7 +43,7 @@
 <br />
 
 ---
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="R34TD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R34TD&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -52,7 +52,7 @@
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  </details>
+  
 
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
