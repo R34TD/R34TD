@@ -18,9 +18,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/uruhanagamiya#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/uruhanagamiya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://www.facebook.com/mahbub.ulhaq.1610#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/mahbub.ulhaq.1610#gh-dark-mode-only)
 
 ### Languages and Tools:
 
