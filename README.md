@@ -23,8 +23,7 @@
 
 <img align="left" alt="Java" width="56px" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" style="padding-right:40px;" />
 
-<img align="left" alt="Kotlin" width="56px" src="https://www.jrebel.com/sites/default/files/styles/social_preview_image/public/image/2021-01/what%20is%20kotlin%20banner%20image.png?itok=5fXxsx8f
-" style="padding-right:40px;" />
+<img align="left" alt="Kotlin" width="56px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XMw9Io8X--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2485/80d41bc3-7f05-444c-a32e-ceb190e486b1.png" style="padding-right:40px;" />
 
 <img align="left" alt="Visual Studio Code" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:40px;" />
 
