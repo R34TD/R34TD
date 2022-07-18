@@ -50,7 +50,7 @@
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=09131B&color=6601FE&line=6601FE&point=8947ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  ![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/{{R34TD}}/{{R34TD}}/blob/output/github-contribution-grid-snake.svg)
   
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
