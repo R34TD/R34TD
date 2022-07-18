@@ -50,7 +50,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=09131B&color=6601FE&line=6601FE&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=09131B&color=6601FE&line=6601FE&point=8947ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 
