@@ -48,8 +48,6 @@
   
   <img align="left" alt="R34TD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R34TD&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<summary>:zap: Language Stats</summary>
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
   
   <summary>:zap: Graphich Stats</summary>
