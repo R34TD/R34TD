@@ -50,9 +50,8 @@
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=09131B&color=6601FE&line=6601FE&point=8947ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  ![snake gif](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.gif)
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake Light](https://github.com/R34TD/R34TD/blob/output/github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/R34TD/R34TD/blob/output/github-snake-dark.svg#gh-dark-mode-only)
   
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
