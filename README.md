@@ -2,21 +2,19 @@
 
 [![Website](https://img.shields.io/website?label=ulhaq.web.id&style=for-the-badge&url=https%3A%2F%2Fulhaq.web.id)](https://ulhaq.web.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UNagamiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/UNagamiya)
-[[(facebook)](https://img.shields.io/badge&url=https://www.facebook.com/mahbub.ulhaq.1610/Mahbub%20Ulhaq-1.1k-blue)]
 
 - 🌱 I’m currently learning Spring Framework
 - ⚡ My Real Name Is Mahbub Ulhaq
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ulhaq.web.id#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ulhaq.web.id#gh-dark-mode-only)
+[![website](./img/website.png)](https://ulhaq.web.id)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/UNagamiya#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/UNagamiya#gh-dark-mode-only)
+[![website](./img/twitter.png)](https://twitter.com/UNagamiya)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/uruhanagamiya#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/uruhanagamiya#gh-dark-mode-only)
+[![website](./img/instagram.png)](https://instagram.com/uruhanagamiya)
+&nbsp;&nbsp;
+[![website](./img/facebook.png)](https://www.facebook.com/mahbub.ulhaq.1610)
 
 ### Languages and Tools:
 
