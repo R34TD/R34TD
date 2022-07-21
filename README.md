@@ -1,14 +1,12 @@
-# Hi there, I'm Uruha Nagamiya 👋 
+# Hi there, I'm Uruha Nagamiya[ウルア  ナガミーヤ]
 
 [![Website](https://img.shields.io/website?label=ulhaq.web.id&style=for-the-badge&url=https%3A%2F%2Fulhaq.web.id)](https://ulhaq.web.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UNagamiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/UNagamiya)
 [![Facebook](https://img.shields.io/badge/Mahbub%20Ulhaq-1.1k-blue)]
 (https://www.facebook.com/mahbub.ulhaq.1610)
 
-## I'm a BackEnd Developer
-
 - 🌱 I’m currently learning Spring Framework
-- ⚡ Fun fact: My Real Name Is Mahbub Ulhaq
+- ⚡ My Real Name Is Mahbub Ulhaq
 
 ### Connect with me:
 
@@ -45,15 +43,15 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+  
   <img align="left" alt="R34TD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R34TD&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
-
-</details>
-
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=09131B&color=6601FE&line=6601FE&point=8947ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
+  
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
 [twitter]: https://twitter.com/UNagamiya
