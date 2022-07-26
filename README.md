@@ -50,7 +50,8 @@
   ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
 
   ### Favourite Waifu:
-  ![image](https://i.pximg.net/img-master/img/2021/08/03/14/43/03/91698055_p0_master1200.jpg)
+![](./img/91698055_p0_master1200.jpg) Nekoha Shizuku
+![](./img/62dfdcc04959b.png) Hatsune Miku
 
   
 [website]: https://ulhaq.web.id
