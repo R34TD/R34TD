@@ -49,9 +49,9 @@
 
   ### Favourite Waifu:
   Nekoha Shizuku
-![](./img/91698055_p0_master1200.jpg) 
+![](./img/Waifu/91698055_p0_master1200.jpg) 
   Hatsune Miku
-![](./img/689941%20(1).png)
+![](./img/Waifu/689941%20(1).png)
   Uruha Rushia
 ![](./img/Waifu/1097747%20(1).jpg) 
 
