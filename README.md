@@ -48,6 +48,10 @@
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R34TD&bg_color=09131B&color=6601FE&line=6601FE&point=8947ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
+
+  ### Favourite Waifu:
+  ![image](https://i.pximg.net/img-master/img/2021/08/03/14/43/03/91698055_p0_master1200.jpg)
+
   
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
