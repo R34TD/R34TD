@@ -8,13 +8,13 @@
 
 ### Connect with me:
 
-[![website](./img/website.png)](https://ulhaq.web.id)
+[![website](./img/icon/website.png)](https://ulhaq.web.id)
 &nbsp;&nbsp;
-[![website](./img/twitter.png)](https://twitter.com/UNagamiya)
+[![website](./img/icon/twitter.png)](https://twitter.com/UNagamiya)
 &nbsp;&nbsp;
-[![website](./img/instagram.png)](https://instagram.com/uruhanagamiya)
+[![website](./img/icon/instagram.png)](https://instagram.com/uruhanagamiya)
 &nbsp;&nbsp;
-[![website](./img/facebook.png)](https://www.facebook.com/mahbub.ulhaq.1610)
+[![website](./img/icon/facebook.png)](https://www.facebook.com/mahbub.ulhaq.1610)
 
 ### Languages and Tools:
 
