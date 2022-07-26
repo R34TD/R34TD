@@ -48,8 +48,10 @@
   ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
 
   ### Favourite Waifu:
-![](./img/91698055_p0_master1200.jpg) Nekoha Shizuku
-![](./img/62dfdcc04959b.png) Hatsune Miku
+  Nekoha Shizuku
+![](./img/91698055_p0_master1200.jpg) 
+  Hatsune Miku
+![](./img/689941%20(1).png) 
 
   
 [website]: https://ulhaq.web.id
