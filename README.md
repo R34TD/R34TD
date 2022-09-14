@@ -1,5 +1,7 @@
 # Hi there, I'm Uruha Nagamiya[ウルア  ナガミーヤ]
 
+![Background Image](./img/BG.jpg) 
+
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://ulhaq.web.id)](https://ulhaq.web.id)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://[twitter.com/akshatrasogi](https://twitter.com/UNagamiya))](https://https://twitter.com/UNagamiya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/uruhanagamiya/)](https://https://www.instagram.com/uruhanagamiya/)
