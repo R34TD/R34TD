@@ -2,9 +2,9 @@
 
 ![Background Image](./img/BG.jpg) 
 
-[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://ulhaq.web.id)](https://ulhaq.web.id)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=6601FE&link=https://ulhaq.web.id)](https://ulhaq.web.id)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=6601FE&link=https://[twitter.com/akshatrasogi](https://twitter.com/UNagamiya))](https://https://twitter.com/UNagamiya)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/uruhanagamiya/)](https://https://www.instagram.com/uruhanagamiya/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=6601FE&link=https://https://www.instagram.com/uruhanagamiya/)](https://https://www.instagram.com/uruhanagamiya/)
 
 - 🌱 I’m currently learning Spring Framework
 - ⚡ My Real Name Is Mahbub Ulhaq
