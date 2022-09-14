@@ -1,8 +1,8 @@
 # Hi there, I'm Uruha Nagamiya[ウルア  ナガミーヤ]
 
-[![Website](https://img.shields.io/website?label=ulhaq.web.id&style=for-the-badge&url=https%3A%2F%2Fulhaq.web.id)](https://ulhaq.web.id)
-[![Twitter Follow](https://img.shields.io/twitter/follow/UNagamiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/UNagamiya)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/akshat.rastogi.bu__/)](https://instagram.com/akshat.rastogi.bu__)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://ulhaq.web.id)](https://ulhaq.web.id)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://[twitter.com/akshatrasogi](https://twitter.com/UNagamiya))](https://https://twitter.com/UNagamiya)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/uruhanagamiya/)](https://https://www.instagram.com/uruhanagamiya/)
 
 - 🌱 I’m currently learning Spring Framework
 - ⚡ My Real Name Is Mahbub Ulhaq
