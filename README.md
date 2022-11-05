@@ -53,14 +53,17 @@
   ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
   
   ### Favourite Waifu:
-  Nekoha Shizuku
-![](./img/Waifu/91698055_p0_master1200.jpg) 
-  Hatsune Miku
-![](./img/Waifu/689941%20(1).png)
-  Uruha Rushia
-![](./img/Waifu/1097747%20(1).jpg) 
-  Riamu Yumemi
-![](./img/Waifu/wallpaperflare.com_wallpaper.jpg)
+  <img align="left" alt="asd" width="256px" src="https://cutewallpaper.org/25/anime-bunny-girl-wallpaper-blue/10914618.jpg" style="padding-right:15px;" />
+  <img align="left" alt="dsa" width="256px" src="https://cutewallpaper.org/25/anime-nurse-wallpaper-phone/32276880.jpg" style="padding-right:15px;" />
+  <img align="left" alt="asdd" width="256px" src="https://static.zerochan.net/Sakamata.Chloe.full.3558645.jpg" style="padding-right:15px;" />
+  <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Yor.Briar.full.3633560.png" style="padding-right:15px;" />
+  
+  
+  
+  
+  
+  
+  
   
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
