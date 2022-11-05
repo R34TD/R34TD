@@ -58,9 +58,8 @@
   <img align="left" alt="asdd" width="256px" src="https://static.zerochan.net/Sakamata.Chloe.full.3558645.jpg" style="padding-right:15px;" />
   <img align="left" alt="asd" width="256px" src="https://cutewallpaper.org/25/anime-bunny-girl-wallpaper-blue/10914618.jpg" style="padding-right:15px;" />
   <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Lumine.full.3725450.jpg" style="padding-right:15px;" />
-  <img align="left" alt="asd" width="256px" src="
-  https://static.zerochan.net/Ganyu.full.3561358.jpg" style="padding-right:15px;" />
-
+  <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Ganyu.full.3561358.jpg" style="padding-right:15px;" />
+  
     
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
