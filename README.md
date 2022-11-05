@@ -55,7 +55,7 @@
   ### Favourite Waifu:
   <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Yor.Briar.full.3633560.png" style="padding-right:15px;" />
   <img align="left" alt="dsa" width="256px" src="https://cutewallpaper.org/25/anime-nurse-wallpaper-phone/32276880.jpg" style="padding-right:15px;" />
-  <img align="left" alt="asdd" width="256px" src="https://static.zerochan.net/Sakamata.Chloe.full.3530973.jpg" style="padding-right:15px;" />
+  <img align="left" alt="asdd" width="256px" src="https://static.zerochan.net/Sakamata.Chloe.full.3538689.jpg" style="padding-right:15px;" />
   <img align="left" alt="asd" width="256px" src="https://cutewallpaper.org/25/anime-bunny-girl-wallpaper-blue/10914618.jpg" style="padding-right:15px;" />
   <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Lumine.full.3725450.jpg" style="padding-right:15px;" />
   <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Ganyu.full.3561358.jpg" style="padding-right:15px;" />
