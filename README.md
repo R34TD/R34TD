@@ -49,8 +49,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
   
   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=R34TD&custom_title=Uruha%20Nagamiya's%20Contribution%20Graph&bg_color=0c1a25&color=6601FE&line=FFFFFF&point=6601FE&hide_border=true)
-<div class="tenor-gif-embed" data-postid="12003890" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/nadeshiko-laid-back-camp-anime-sleepy-gif-12003890">Nadeshiko Laid Back Camp GIF</a>from <a href="https://tenor.com/search/nadeshiko-gifs">Nadeshiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  
   ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
   
   ### Favourite Waifu:
