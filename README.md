@@ -25,7 +25,7 @@
 
 <img align="left" alt="Visual Studio Code" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:40px;" />
 
-<img align="left" alt="Spring" width="56px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:40px;" />
+<img align="left" alt="Spring" width="56px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" style="padding-right:40px;" />
 
 <img align="left" alt="MySQL" width="56px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:40px;" />
 
