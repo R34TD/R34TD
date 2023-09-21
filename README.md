@@ -50,15 +50,7 @@
   
   ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=R34TD&custom_title=Uruha%20Nagamiya's%20Contribution%20Graph&bg_color=0c1a25&color=6601FE&line=FFFFFF&point=6601FE&hide_border=true)
   ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
-  ### Favourite Waifu:
-  <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Yor.Briar.full.3633560.png" style="padding-right:15px;" />
-  <img align="left" alt="dsa" width="256px" src="https://cutewallpaper.org/25/anime-nurse-wallpaper-phone/32276880.jpg" style="padding-right:15px;" />
-  <img align="left" alt="asdd" width="256px" src="https://static.zerochan.net/Sakamata.Chloe.full.3568809.png" style="padding-right:15px;" />
-  <img align="left" alt="asd" width="256px" src="https://cutewallpaper.org/25/anime-bunny-girl-wallpaper-blue/10914618.jpg" style="padding-right:15px;" />
-  <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Lumine.full.3725450.jpg" style="padding-right:15px;" />
-  <img align="left" alt="asd" width="256px" src="https://static.zerochan.net/Ganyu.full.3561358.jpg" style="padding-right:15px;" />
-  
-    
+ 
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
 [twitter]: https://twitter.com/UNagamiya
