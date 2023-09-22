@@ -49,7 +49,30 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R34TD&&show_icons=true&hide_border=false&title_color=6601FE&icon_color=8947ED&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
   
   ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=R34TD&custom_title=Uruha%20Nagamiya's%20Contribution%20Graph&bg_color=0c1a25&color=6601FE&line=FFFFFF&point=6601FE&hide_border=true)
-  ![Snake animation](https://github.com/R34TD/R34TD/blob/output/github-contribution-grid-snake.svg)
+
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    R34TD: ${{ github.R34TD }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    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: ${{ secrets.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 }}
  
 [website]: https://ulhaq.web.id
 [facebook]: https://www.facebook.com/mahbub.ulhaq.1610
