@@ -7,7 +7,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=6601FE&link=//https://www.instagram.com/uruhanagamiya/)](https://www.instagram.com/uruhanagamiya/)
 
 - 🌱 I’m currently learning Spring Framework
-- ⚡ My Real Name Is Mahbub Ulhaq
 
 ### Connect with me:
 
