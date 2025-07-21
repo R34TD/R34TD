@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-[![website](./img/icon/twitter.png)](https://twitter.com/UNagamiya)
-&nbsp;&nbsp;
 [![website](./img/icon/instagram.png)](https://instagram.com/uruhanagamiya)
 &nbsp;&nbsp;
 [![website](./img/icon/facebook.png)](https://www.facebook.com/mahbub.ulhaq.1610)
